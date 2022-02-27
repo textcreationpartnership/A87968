@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ladies champion confounding the author of The wandring whore, by Eugenius Theodidactus, powder-monkey, roguy-crucian, pimp-master-general, universal mountebank, mathematician, lawyer, fortune-teller, secretary to naturals, and scribler of that infamous piece of non-sense, Advice to a daughter, against advice to a son. Approved of by Megg. Spenser Damrose Page Priss. Fetheringham Su. Leming Betty Lawrence Mother Cunny</title>
+            <author>Heydon, John, b. 1629.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87968</idno>
+            <idno type="STC">Wing L151</idno>
+            <idno type="STC">Thomason E1053_10</idno>
+            <idno type="STC">ESTC R207982</idno>
+            <idno type="EEBO-CITATION">99866993</idno>
+            <idno type="PROQUEST">99866993</idno>
+            <idno type="VID">119283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119283)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1053[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ladies champion confounding the author of The wandring whore, by Eugenius Theodidactus, powder-monkey, roguy-crucian, pimp-master-general, universal mountebank, mathematician, lawyer, fortune-teller, secretary to naturals, and scribler of that infamous piece of non-sense, Advice to a daughter, against advice to a son. Approved of by Megg. Spenser Damrose Page Priss. Fetheringham Su. Leming Betty Lawrence Mother Cunny</title>
+                  <author>Heydon, John, b. 1629.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Eugenius Theodidactus is a pseudonym for John Heydon.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 13 xber [i.e. December] 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aretino, Pietro, 1492-1556. --  Puttana errante</term>
+               <term>Prostitution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119283:1" rendition="simple:additions"/>
+            <p>THE Ladies Champion Confounding the Author of the Wandring whore, By <hi>Eugenius Theodidactus,</hi> Powder-Monkey, Roguy-Crucian, Pimp<g ref="char:EOLhyphen"/>maſter-general, Univerſal Mountebank, Mathematician, Lawyer, Fortune<g ref="char:EOLhyphen"/>teller, Secretary to Naturals, and Scribler of that imfamous Piece of Non-ſenſe, <hi>Advice to a Daughter,</hi> AGAINST ADVICE TO A SON.</p>
+            <p>Approved of by
+<list>
+                  <item>
+                     <hi>Megg. Spenſer</hi>
+                  </item>
+                  <item>
+                     <hi>Damroſe Page</hi>
+                  </item>
+                  <item>
+                     <hi>Priſs. Fotheringham</hi>
+                  </item>
+                  <item>
+                     <hi>Su. Leming</hi>
+                  </item>
+                  <item>
+                     <hi>Betty Lawrence</hi>
+                  </item>
+                  <item>
+                     <hi>Mother Cunny</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Printed in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119283:2"/>
+            <pb n="3" facs="tcp:119283:2"/>
+            <head>THE LADIES CHAMPION.</head>
+            <p>OH! for a leg, an arm, or a limb of that Devil incarnate, the woman-hater, and Enemy to multiplication, the Author of the <hi>Wandering whore.</hi> Come Sirrah, look to your hits, I have a whole bundle of rods in piſs for thee, <hi>quod deſertur non aufer<g ref="char:EOLhyphen"/>tur,</hi> thy puniſhment's onely deferr'd for a while, thou ſhalt have thy ſwing, and thou knowſt what followes after; for I know thou'lt run thy ſelf out of breath ſhortly: All thy <hi>Pumpings, Inventions, Romances, Stories</hi> of the <hi>Strummulo,</hi> the <hi>Merkin, Spunges</hi> of ſe<g ref="char:EOLhyphen"/>veral ſorts, <hi>Scotch-ſpur, Padlocks,</hi> with the <hi>Liſt</hi> of <hi>Crafty bauds, Common whores, Wanderers, Pimps</hi> and <hi>Trappanners,</hi> ſhall not prevent it; Thou didſt firſt be<g ref="char:EOLhyphen"/>gin with <hi>private whores, Cuckolds,</hi> and <hi>Cuckold-makers</hi> under the notion and name of <hi>Mercurius Philalethes,</hi> but that Element was too hot to hold, come this will be out of the <hi>frying pan</hi> into the <hi>fire;</hi> thou knowſt <hi>Mrs. B—</hi> in <hi>C—</hi> would have given ten pounds for thy diſ<g ref="char:EOLhyphen"/>covery and apprehenſion, <hi>Mrs. S—</hi> will ſpend fifty pounds to vindicate her cauſe, &amp; make thee exemplary, and yet thou darſt enter the <hi>Liſt</hi> againſt a thouſand; beware their Clutches, leſt they ſouce thee in <hi>Thetis</hi> poudering tub to make meat for <hi>Sharks</hi> and <hi>Shad<g ref="char:EOLhyphen"/>docks,</hi> or fright thee like poor <hi>Lazari<gap reason="illegible" resp="#UOM" extent="1+ letter">
+                     <desc>•…</desc>
+                  </gap>o,</hi> by shaving thee, toſſing thee in a blanket naked, and turning the out of
+<pb n="4" facs="tcp:119283:3"/>
+thy ſeven ſenſes, whilſt they cry <hi>Hey for the brave wo<g ref="char:EOLhyphen"/>men-barbers in</hi> Drury-lane, they'l ſpoyl thy occupa<g ref="char:EOLhyphen"/>tion for inveighing againſt their's, off goes thy ſtones <hi>as ſure as a gun or a club</hi> to make <hi>Billjard balls</hi> on, and thy yard their <hi>Billjard-ſtick</hi> to play at their Portalls, then ſay thy <hi>Pater-noſter,</hi> ſpeak with all thy friends, for they'r reſolv'd (if they catch thee once) to ſee whether there be any worms in thy brains; and if ſo, to waſh them out, and put thy brains in again, and if that wont ſerve thy turn, half an hour's exerciſe of their preparation will be worſe then the pox or purgatory; Come <hi>Bits</hi> and <hi>Bacon,</hi> thou knowſt how <hi>Thom.E.</hi>—was uſed for thy ſake in <hi>Holborn,</hi> kickt up and down like a football, and forc't to fly for fear of leaving of his brans behinde him, or amongſt them: was not <hi>Dick L</hi>—arreſted (and forc't to pawn his ſhirt and his cloak to pay his fees) by <hi>Merrick?</hi> And was not another arreſted by <hi>Farmer</hi> the <hi>Poulterer</hi> in <hi>Newgate-market</hi> upon ſuppoſition of being the Author of the <hi>Wandring whore?</hi> 'tis true his innocency cleered him to the dammage of <hi>Su. Lemings</hi> pitiful Poulterer, who feaſted him and his friends car<g ref="char:EOLhyphen"/>caſes by way of Compoſition with a Capon, Teals, Gooſe, Wine, <hi>&amp;c.</hi> to the value of forty ſhillings, and upwards, making him pay for his miſtake and ignorance: Thou <hi>Deſperado,</hi> if <hi>Glover, Player,</hi> or <hi>Thom-Stern</hi> light on thee hanſomly, ſay well fair a light pair of heels, they'l try whether thou art a kin to an Iriſh man or no, and teach thee <hi>Hey then up go we, up tayls all, the Pit<g ref="char:EOLhyphen"/>chers gone to'th wall.</hi> But hear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you ſirrah, is whore a common name to all women, which is ſo common with thee? thou ſay'ſt foul Devil, thou haſt a Liſt of fifteen hundred Caterpillars and poyſonous vermine
+<pb n="5" facs="tcp:119283:4"/>which want deſtroying, beware leſt a leſſer number don't devour thee, or burn thee in ſome Capacious C— or other, or quarter thee in pieces amongſt them, ſen<g ref="char:EOLhyphen"/>ding thy bones and fleſh amongſt the Crew, in order to the burning thereof, with as much Ceremony as <hi>Pe<g ref="char:EOLhyphen"/>ter Aretine</hi> for inventing the ſix and thirty ſeveral ways and poſtures of occupying, or for being an Heretick; But Sirrah would not a whore be a neceſſary evil (as is uſually ſaid of all women kind) if thou hadſt not the gift of continence? prithee what cauſe or proviſion is moſt neceſſary, moſt lawful, leaſt offenſive, and leaſt charges? ought we not amongſt all evils to chuſe the leaſt? When then, ſirrah, is not uſing a handſom Girl wholſome, pleaſurable, and tollerable? For ſince the number of females do far exceed that of males, doubtleſs they would have a little of <hi>that ſame</hi> as well as the reſt of their fellow Creatures, who are all fleſh and blood, and queſtionleſs were not brought into the world with ſuch inſtruments for no purpoſe or pro<g ref="char:EOLhyphen"/>fit: ſo that I conceive (in behalf of Ladies and Ma<g ref="char:EOLhyphen"/>dams in our order) it leſs criminal for a man to go and lie with a wench (I will not ſay with another mans wife) then to lie with his wife when ſhe is big with Childe, or during her lying in Childe-bed, in this Caſe what courſe or remedy ſhall a man take and uſe, who has not this Gift of Continence, and may neither lie with his own wife, nor his neighbors wife, nor his mayd, his nurſe, nor with a whore? queſtionleſs there is a lawful proviſion made in this Caſe of Extremity, which I judge, conceive and conclude to be in <hi>Polygamy,</hi> that is, in having plurality, ſeveral, or many wives at one and the ſame time together, as the beſt Expedient for gene<g ref="char:EOLhyphen"/>ration
+<pb n="6" facs="tcp:119283:4"/>and Continency, and ſtricteſt way to have few or no whores at all, as it is at this day amongſt the Turks, where one man may have as many wives as he pleaſes, ſo he can maintain them and their children, or if they do maintain their husbands. Put the Caſe an Heyr of a vaſt and yeerly revenue, to whoſe iſſue this Eſtate is entayld, ſhould marry, or be compell'd for lucre of mony to bed with a perſon he loves not, or one that proves barren, this weathly perſon is deſirous of Children to whom he would leave his Eſtate, or elſe he looſes it, leaving to it ſtrangers which never got it, would not this mans marriage to a fruitful vvife be matter of much rejoycing to him, and to every honeſt and chaſt vvife, if it vvere their condition, to ſee the fruits of their labours? a Preſident vvhereof I remem<g ref="char:EOLhyphen"/>ber to be verified of an <hi>Eaſt-India Merchant</hi> (of ſome<g ref="char:EOLhyphen"/>what a different quality) who was exceeding deſirous to have his wife got with childe, a thing he could not per<g ref="char:EOLhyphen"/>form himſelf,) giving her free leave ſo to do during his abſence, provided it were done with a Gentleman; not long after a Knights ſon coming to her houſe, brought a bill of Exchange for a conſiderable ſum of moneys, which accordingly was accepted, and the day of pay<g ref="char:EOLhyphen"/>ment appointed; the pleaſant Gentlewomen made very much of him, and agreed that the ſame day he received his mony, he ſhould lie with her all night till the morrow; which was accordingly done, ſhe got with childe of a boy, and in ten months following born, and put forth to nurſe at <hi>Bednal Green,</hi> (where wanted no Expences or attendance) without ſuſpicion or jealouſy of the father, in regard of the ſuddain diſpatch thereof after her husband departure, not long after her husband
+<pb n="7" facs="tcp:119283:4"/>arriv'd at home ſafely, who ſeeing no appearance of his laſt ſcuffle with his wife, lamented the want of iſſue, chyding her for not making uſe of that freedom he had allowed her during his abſence, which cauſed her to ad<g ref="char:EOLhyphen"/>mire his humor, and relate her fore-paſſed action, ſaying there was a brave boy begot by a brave fellow, a Knights ſon, and put out to nurſe in ſuch a place, and of ſuch an age; the newes whereof made him impatient of ſeeing him, which he did the day following early; where after plentiful gifts to the nurſe, hugging, kiſ<g ref="char:EOLhyphen"/>ſing and embracing of the childe, he told her he came to fetch away the childe, to which ſhe ſaid, it could not be diſpenſ'd with, without the knowledge of the perſon who delivered him to her, and paid for his keeping, on which he went away diſcontented to the Knights ſon, telling him he would ſpend 300 <hi>l.</hi> but he would have him; the other anſwered he vvould ſpend 500 <hi>l.</hi> but he vvould keep him, ſo that incontinently a Sute vvas com<g ref="char:EOLhyphen"/>menced, at vaſt charges on both ſides, ere the verdict came to be given up, vvhich vvas likely to go againſt the Merchant; of vvhom one <hi>Noy</hi> the Prothonotory ſaid, demanding his fee, he vvould turn the ſcales, vvhich accordingly fell out, and ſpeaking to the Judge and the Bench, deſired the favor to ſpeak one or tvvo vvords more to the matter, vvhich in regard of the variety of pleadings, and multiplicity of Lavvyers there preſent, vvas thought ſuperfluous, and needleſs, yet granted by the Judge, to vvhom he ſpake, My Lord, put the caſe that your Honor and I have each of us a piece of ground adjoyning to each other, and nothing but a fence or a ditch betvvixt them, you keep a bull in one part, and I keep Covves on the other, your bull break
+<pb n="8" facs="tcp:119283:5"/>in amongſt my Cowes, and gets them with Calves, does not theſe calves belong to the owner of the Cowes? whereupon the verdict was given on the Merchants ſide: who brought him up to the Univerſity, and dying left his whole Eſtate to him, the Knights ſon continu'd unmarried to his dying day, (having known her but that once) left his whole Eſtate likewiſe to him: here's a rich Preſident for all barren women, all women big with Childe, and all old women to follow, inſtead of being jealous of their husbands, 'tis an excellent way to creace love inſtead of hatred amongſt them, if they had but a right underſtanding of each other, to let their husbands with free conſent take another wife by whom he may have children; for what were it for the Elder to be nurſe to the yonger wife, to have the favor and ſmiles of her husband, eſpecially where there is diſ<g ref="char:EOLhyphen"/>parity of yeers, of diſſimilitude in conditions; I queſtion whether the ſowing ſuch precious ſeed in a barren ſoyl is anſwerable, fitting, or different from ſowing it a<g ref="char:EOLhyphen"/>mongſt whores, and if ſo, the marriage of another pre<g ref="char:EOLhyphen"/>vents it, proving fruitful, and the peruſal of <hi>Ochinu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dialogues</hi> of <hi>Polygamy</hi> and <hi>Divorce,</hi> will convince any rational ſoul of the truth hereof, publiſhed and printed for J—G—once living in <hi>Cornhil.</hi> And now have at the new faſhion'd <hi>Dialogues</hi> written ſometimes by a <hi>Con<g ref="char:EOLhyphen"/>vert,</hi> ſometimes by a <hi>Converſant,</hi> and another time by <hi>Eubulus,</hi> and next time by I cannot tell whom or what, and yet all one and the ſame hand again: I tell thee theſe poor Creatures term'd whores will ſerve to ſup<g ref="char:EOLhyphen"/>ply a mans wants better then marrying a wench, having nothing to ſhow for't but two pair of legs in one pair of ſheets, with a windmil and watermil, from whence
+<pb n="9" facs="tcp:119283:5"/>comes no griſt vendible: again, a wife a man cannot put off as one may a whore with eighteen pence or a couple of boards without any diſturbance or greater prejudice, if he ſcape pockyfying: again, if a man in ſuch a Caſe meddle with a maid, he muſt be forc'd either to marry her or maintain her and her childe, which is not ſo with a whore, who ſeldom receives any wages after her work is over, but before hand, and that ſo frequent<g ref="char:EOLhyphen"/>ly that they ſeldom prove with Childe, as <hi>Peg Croſs</hi> the ſhort A—Wanderer is, as thou termſt her, thou pre<g ref="char:EOLhyphen"/>tendeſt to be their profeſſ't enemy both in <hi>Principles</hi> and <hi>Practiſes,</hi> whence comes ſuch frigidity, and cold<g ref="char:EOLhyphen"/>neſs, art thou not one of the <hi>Decayed Occupiers</hi> thou talk'ſt of<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 'tis likely ſo, or elſe haſt loſt thy Evidence, or been ſerv'd as they do Eunuchs in other Countryes, where their ſtones are cut out, who would otherwiſe prove the ſtouteſt ſtallions, as an approved and experi<g ref="char:EOLhyphen"/>enc'd Doctor obſerv'd of one amongſt them who would lie tickling and towzing of his Miſtriſs with his ſtanding T—for three or four hours, nay all night ſometimes to<g ref="char:EOLhyphen"/>gether, without tyring, but with no Ejection, it being impoſſible: but I believe thou wouldſt have them go to't with Carrets and Parſnips, as the milk-maids did with one another till they let them ſlip over head and ears, for want of tying a ſtring about them irrecovera<g ref="char:EOLhyphen"/>bly, and the ſpoyling of a good commodity, or moul for caſting boyes and girles in: what would have be<g ref="char:EOLhyphen"/>come of that late and yong lady, in ſuch a caſe, of whom I ſhall relate a pleaſing ſtory, from whom ſprung ſeveral curious branches, whoſe father was, and is a perſon of great wealth and riches, yet covetous, and willing to rid his hands of her, at as eaſy a rate as he could to ano<g ref="char:EOLhyphen"/>ther
+<pb n="10" facs="tcp:119283:6"/>of a vaſt Eſtate likewiſe, but could not bring his deſigns to perfection upon him, for upon the tender of a thouſand pounds, he would not ſeem to accept her without the addition of five hundred more, whereupon without the privity of his Father, Mother, or any other, but himſelf, his Miſtriſs, and the Steward, this plot was contrived and executed, vvhich vvas to marry her, get her vvith childe, come novv and then to her in privacy, leaving her vvith her Parents, till the jeſt broke forth, vvhich in fevv months follovving did ſo, vvhoſe mother deſcrying the riſing of her belly, queſtioned her daugh<g ref="char:EOLhyphen"/>ter about the premiſes, to vvhom ſhe anſvvered, that ſuch a perſon, not guilty thereof, had done it; vvhich exceedingly troubled her, vvhich cauſed her to reveal it to her husband, vvho reſented it vvith much more horror, for the diſhonor vvould fall upon him, and his vvhole family: in this tryal his vvits vvere put to't, con<g ref="char:EOLhyphen"/>cealing it from all others, till his ſtevvard vvho vvas deep in the plot, gave him an inckling thereof, of vvhom he ask't councel, vvho anſvvered him, there vvas no vvay under heaven but to marry her to her former ſuitor, vvhich he vvell liked of, and accordingly he and his ſtevvard rode to viſit him, vvhere they vvere ex<g ref="char:EOLhyphen"/>ceeding vvelcom, inſomuch that the old man invites him by way of retribution and retaliation to his houſe, which he forthwith accepted: riding together the mat<g ref="char:EOLhyphen"/>ter was ſtarted, and renewed betwixt him and his daughter, which the old man gladly received, telling him he ſhould have the 1500 <hi>l.</hi> but he would have writings drawn betwixt each other, before the ſight of his daughter; which being completed, the daughter was ſent for, who appeared big-bellyed, whereat with a
+<pb n="11" facs="tcp:119283:6"/>counterfeit amazedneſs, he ſaid, How now <hi>Peg;</hi> what have you done? and to the father, I'le have none of your daughter, to which the old man replyed, taking him by the ſleeve, Son, ſon, a bargain's a bargain: I tell you Sir, quoth the Gentleman, except you double the portion for the diſhonor done me, I will not have your daughter. Come, come Sir, I tell yee a bargain's a bar<g ref="char:EOLhyphen"/>gain, to avoid all trouble you ſhall have your portion doubled, which was accordingly performed ere the plot was diſcovered. Now face about to the right, I'le charge thee agen and agen, for I have but been skirmiſhing and bickering all this while, have at thee, with thunder and lightning, I'le come Pell-mell upon thee: Is thy name <hi>Eubulus</hi> with a horſe-pox to thee, thou thinkſt to put the cramp in my mouth with a hard word, I warrant thee, but I'le anatomize thy meaning, 'tis a good Councellor by the figure <hi>Ironia e contrario,</hi> let thee alone in thy roguery, and thou'lt teach us all the plain way to occupying: for all thy pretended ſanctity, doubtleſs thou art a <hi>yong ſaint,</hi> but an <hi>old de<g ref="char:EOLhyphen"/>vil</hi> from experience, and the <hi>Devil</hi> is ſeemingly the beſt <hi>Doctor:</hi> Will thy councel gain the <hi>Elyſian fields,</hi> ſatisfy <hi>Charon</hi> the ferry-man of Hell, or lead the ſafe <hi>way</hi> to <hi>Bliſs?</hi> I have taught thee in my <hi>method</hi> to <hi>Roſy-Crucian Phyſick,</hi> borrow'd of that learned and ingenious Writer Mr. <hi>Aſhmole:</hi> no, there's no ſuch thing in na<g ref="char:EOLhyphen"/>ture, I would have ſaid, <hi>rerum natura,</hi> but for frighting my Ladies, and puzzling thy empty pate, thou thinkſt all thy <hi>pack-thread intelligence</hi> muſt all paſs for <hi>veri<g ref="char:EOLhyphen"/>ties,</hi> but I that am <hi>Eugenius Theodidactus</hi> of my own creating, and <hi>Secretary</hi> to <hi>Naturals,</hi> ſay, <hi>Cujus contra<g ref="char:EOLhyphen"/>rium verum eſt,</hi> conſtrue me that if thou canſt <hi>Enbulus;</hi>
+               <pb n="12" facs="tcp:119283:7"/>for I'le have thee to know, I underſtand <hi>Hebrew, Ara<g ref="char:EOLhyphen"/>bick</hi> and <hi>Syriack</hi> as much as the <hi>Grand Sultan</hi> does <hi>Welch</hi> and <hi>Engliſh</hi> Well, but thy name and thy na<g ref="char:EOLhyphen"/>ture are not all one, ſirrah, I'de have thee to know I am a <hi>learned Aſinus, ex quovis ligno uon fit mercurius;</hi> the Devils in thee for underſtanding, if thou knowſt that too: for I believe thou wert never at the Uni A<g ref="char:EOLhyphen"/>fity of <hi>Padua,</hi> where I acted the part of <hi>Ignoramus</hi> in<g ref="char:EOLhyphen"/>ſtead of <hi>Commencing,</hi> yet I'le give my de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nition ac<g ref="char:EOLhyphen"/>cording to my degrees of <hi>Eubulus; Eubulus</hi> when I acted <hi>Acolaſtes</hi> the <hi>prodigal,</hi> was my <hi>good</hi> Councellor againſt wenching; <hi>Eubulus,</hi> was my <hi>right-hand-Coun<g ref="char:EOLhyphen"/>cellor</hi> againſt High-way-men, Pick-pockets, and Paraſites. <hi>Eubulus</hi> was always againſt ſhaking of <hi>El<g ref="char:EOLhyphen"/>bows, Tables, Cards,</hi> and <hi>Gamings,</hi> and other chea<g ref="char:EOLhyphen"/>ting (as that of Sir—<hi>Moreland,</hi> of 40 pieces of gold in a dream,) and making the world believe my brains lay in a <hi>Long-lane Pluſh-jacket,</hi> a <hi>Green-bag,</hi> a <hi>re<g ref="char:EOLhyphen"/>verend</hi>-ſtaff, and telling of <hi>fortunes,</hi> or rayling at <hi>honeſt Fumigoſus</hi> my old enemy, for not flattering me in my ignorance. <hi>Eubulus</hi> was my friend after I had eaten the husks of beanes and peaſe amongſt the hogs, but I ne<g ref="char:EOLhyphen"/>ver ſaw any calf but my ſelf: but this is a damnable Ex<g ref="char:EOLhyphen"/>curſion, if I ſhould weary the patience of my Ladies of pleaſure, to whom I commend the reading of my <hi>Ad<g ref="char:EOLhyphen"/>vice</hi> to a <hi>Daughter</hi> ſtoln out of <hi>Felthams Reſolves, Modern Policyes, Overburyes Characters,</hi> &amp;c. taking the other bout with <hi>Eubulus,</hi> and then farewel: Ide have thee to know I ſcorn to take ſuch a puppyes coun<g ref="char:EOLhyphen"/>cel, for I have found more profit by pinching and cheating, then thou ſhalt ever do by writing or ſpeaking go teach thy dogs to dance: but I ſhall not leave thee
+<pb n="13" facs="tcp:119283:7"/>ſo neither, wa'ſt not an impudent part of thee, to diſco<g ref="char:EOLhyphen"/>ver who were <hi>Cuckolds</hi> and who were <hi>Cuckold-makers,</hi> of both ſexes: thou <hi>baudy</hi> Author, and <hi>abuſive Raskal,</hi> is it convenient to ſpeak truth at all times, no not to Quaery it? Whether <hi>Old Actaeon</hi> was ever coop't up like a <hi>Guinny Big?</hi> whether <hi>Actaeons</hi> picture were more proper then a <hi>Black Boy?</hi> whether the <hi>ſeven Stars</hi> in L.—might not more properly be the <hi>ſeven deadly ſins?</hi> Whether the ſign of the <hi>Devil</hi> were not more ſutable for the <hi>Angel</hi> in W—whether ever a Ba<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er in <hi>London</hi> look't like <hi>Maſsienello</hi> of <hi>Naples?</hi> Whether <hi>Smacket</hi> upon a wenches bum-trinket is not a <hi>term</hi> of <hi>art</hi> for every <hi>Barbers</hi> mouth? and <hi>Have you any wood to cleave,</hi> a profitable ſentence on <hi>Horſledown?</hi> Whether <hi>Su Leming?</hi> A—does not make buttons with the ſtrings of her fiddle, ever ſince the diſcovery of <hi>Ben. R</hi>—his drawing a tabby gown out of his Codpiece? Whether old father <hi>Fiery-facias</hi> will ever be cur'd of his <hi>red noſe,</hi> till he leaves looking under the <hi>Lines</hi> of <hi>Communication?</hi> Whether <hi>old Rats</hi> will ever leave loving of <hi>Cheeſe?</hi> Whether that which is bred in the <hi>bone,</hi> will ever out of the fleſh? Whether a <hi>Flaunders</hi> Mare or a <hi>beautiful wench naked</hi> is the better bed-fellow? Whether <hi>plain-horns</hi> or <hi>gilt-horns</hi> are moſt faſhionable? Whether the <hi>Butchers brindle</hi> does not want Hukins his Quidlibets? Whether <hi>Lon<g ref="char:EOLhyphen"/>don</hi> vvill ever be vvithout <hi>Cuckolds</hi> and <hi>Cuckoldmakers?</hi> Whether the <hi>French mans</hi> riding on the <hi>noſe,</hi> does not ſpoyl a <hi>good occupation?</hi> Whether it be moſt lavvful to lie vvith a mans <hi>maid,</hi> his <hi>nurſe,</hi> or his ovvn <hi>wife,</hi> in <hi>Gander-mouth?</hi> Whether any man can cure the <hi>Cut</hi> of his <hi>finger</hi> by thruſting it up a C—as I—did? Whe<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:119283:8"/>lying with a <hi>feeble husband,</hi> or a <hi>ſtoutiſtallion,</hi> cures a <hi>womans melancholy?</hi> Whether <hi>Midwifes</hi> get moſt by <hi>mens</hi> or <hi>womens tayls?</hi> Whether the taking a <hi>touch</hi> before hand, is not a ſure way to try each others abilityes? Whether the <hi>Earl</hi> of <hi>Mancheſters Colours,</hi> or thoſe of <hi>Cripple-gate,</hi> are moſt commendable? Whe<g ref="char:EOLhyphen"/>ther any man ever look't through a <hi>womb perſpective-inſtrument?</hi> Whether any man can be a <hi>Cuckold</hi> in his own conceit, ſo ſoon as another? And whether any man would give his Conſent, though he were hang'd for't? Whether <hi>Hoſiers, Button-makers,</hi> and <hi>Tooth<g ref="char:EOLhyphen"/>drawers,</hi> are not more apt to be <hi>Cuckolds-all-a row</hi> then others? Whether <hi>Irommongers</hi> may not play ar <hi>Tick<g ref="char:EOLhyphen"/>tack</hi> in a <hi>baudy-houſe,</hi> as well as others? Whether two <hi>Cocks</hi> to one <hi>Hen</hi> are not odds? Whether handling the <hi>Souldjers odds,</hi> or ſlitting of <hi>beans</hi> in <hi>Cheapſide-market</hi> is moſt profitable? Whether it be lawful for a man to pinch, kick and beat his wife without a cauſe? And laſt of all <hi>Whelp</hi> and <hi>Bacon,</hi> Whether <hi>Heydon</hi> the <hi>Univerſal Mountebank,</hi> did ſtudy <hi>Arts</hi> and <hi>Sciences</hi> in <hi>Jacobs</hi>-well-<hi>Colledge</hi> in <hi>White chappel during his cornuting?</hi> why thou <hi>Villain,</hi> did'ſt thou do't, or let ano<g ref="char:EOLhyphen"/>ther to work? I'le erect a figure for't, and finde thee out; the ſign is in <hi>Aries</hi> or <hi>Taurus,</hi> Im'e ſure on't by the itching of the nape of my neck, which makes me ſcratch where it does not itch, yet I'le turn and return to my <hi>Ladies,</hi> craving leave ſo ſubſcribe my ſelf their</p>
+            <closer>
+               <signed>
+                  <hi>Unvanquiſhed Champion</hi> Eugenius Theodidactus, <hi>cum multis aliis.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119283:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
